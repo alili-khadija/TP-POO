@@ -23,4 +23,4 @@ public class QCM extends Question {
     public void setReponses(String[] reponses) {
         this.reponses = reponses;
     }
-}
+}//

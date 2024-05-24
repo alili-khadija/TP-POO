@@ -7,7 +7,7 @@ public class Exo {
     private List<Integer> scores;
 
     public Exo(String consigne, String nomMaterial) {
-        this.consigne = consigne;
+        this.consigne = consigne; //
         this.nomMaterial = nomMaterial;
         this.scores = new ArrayList<>();
     }

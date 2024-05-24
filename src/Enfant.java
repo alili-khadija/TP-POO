@@ -9,7 +9,7 @@ public class Enfant extends Patient {
         super(nom, prenom, dateNaissance, lieuNaissance, adresse, dossier);
         this.classeEtude = classeEtude;
         this.numPere = numPere;
-        this.numMere = numMere;
+        this.numMere = numMere; //
     }
 
     public String getClasseEtude() {

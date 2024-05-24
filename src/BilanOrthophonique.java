@@ -1,2 +1,2 @@
-public class BilanOrthophonique {
+public class BilanOrthophonique { //
 }

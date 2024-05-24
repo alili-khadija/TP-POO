@@ -12,7 +12,7 @@ public class Dossier {
         this.numDossier = numDossier;
         this.rendezVous = new ArrayList<>();
         this.bilans = new ArrayList<>();
-        this.fichesSuivi = new ArrayList<>();
+        this.fichesSuivi = new ArrayList<>();//
     }
 
     public int getNumDossier() {

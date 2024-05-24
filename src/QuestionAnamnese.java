@@ -13,4 +13,4 @@ public class QuestionAnamnese extends ReponseLibre {
     public void setCategory(CategoryAnamnese category) {
         this.category = category;
     }
-}
+}//

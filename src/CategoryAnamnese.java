@@ -1,4 +1,6 @@
-public enum CategoryAnamnese {
+public enum CategoryAnamnese {//
+    //// CategoryAnamnese class
+
     HISTOIRE_MALADIE,
     SUIVI_MEDICAL,
     STRUCTURE_FAMILIALE,

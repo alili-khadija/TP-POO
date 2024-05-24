@@ -18,4 +18,4 @@ abstract class Patient {
     public Dossier getDossier() {
         return dossier;
     }
-}
+}//

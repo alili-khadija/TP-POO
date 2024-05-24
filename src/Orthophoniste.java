@@ -1,6 +1,6 @@
 import java.util.*;
 
-// Orthophoniste class
+// Orthophoniste
 public class Orthophoniste {
     private String nom;
     private String prenom;

@@ -1,4 +1,6 @@
 public class Diagnostique {
+    // Diagnostique class
+
     private String nom;
     private String categorie;
 
@@ -8,7 +10,7 @@ public class Diagnostique {
     }
 
     public String getNom() {
-        return nom;
+        return nom; //
     }
 
     public void setNom(String nom) {
