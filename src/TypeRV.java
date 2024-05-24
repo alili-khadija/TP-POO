@@ -1,3 +1,5 @@
 public enum TypeRV {
-    CONSULTATION, SUIVI, ATELIER;
+    CONSULTATION,
+    SUIVI,
+    ATELIER;
 }

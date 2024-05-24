@@ -1,3 +1,4 @@
 public enum TypeSeanceSuivi {
-    PRESENTIEL, ENLIGNE;
+    PRESENTIEL,
+    ENLIGNE;
 }
